@@ -1,0 +1,58 @@
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#  StrangerMusic Project
+#  Developed & Maintained by: Ashish
+#  Copyright © 2026 - All Rights Reserved
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+aiofiles
+aiohttp
+apscheduler
+asyncio
+brotli
+beautifulsoup4
+bs4
+dnspython
+emojis
+ffmpeg-python
+gitpython
+gpytranslate
+gtts
+hachoir
+heroku3
+httpx
+instaloader
+lexica-api
+motor
+numpy
+opencv-python
+pillow
+psutil
+pickleshare
+pycountry
+pycryptodome
+pydub
+pyfiglet
+pykeyboard
+python-dotenv
+python-whois
+pyshorteners
+pytesseract
+pytz
+pyrogram
+py-tgcalls
+pyrogramv2
+pyyaml
+py-yt-search
+qrcode
+requests
+speedtest-cli
+SpeechRecognition
+search_engine_parser
+spotipy
+telegraph
+tgcrypto
+uvloop; sys_platform != "win32"
+wget
+youtube-search
+youtube-search-python
+yt-dlp
